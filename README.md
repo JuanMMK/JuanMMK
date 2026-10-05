@@ -7,8 +7,7 @@
 
 ## 🧪 ¿Qué hago?
 
-Soy QA Tester con formación en QA Manual y actualmente profundizando en automatización con **Python, Pytest y Playwright**.  
-Me gusta investigar, aprender nuevas herramientas y crear scripts de testing robustos y reutilizables.
+Soy QA Tester con formación en QA Manual y actualmente profundizando en automatización con **Python, Pytest y Playwright**. 
 
 💡 Además, soy **Ingeniero en Electrónica**, lo que me da una visión analítica y metódica, ideal para el testing, la automatización y el trabajo con sistemas complejos.
 
